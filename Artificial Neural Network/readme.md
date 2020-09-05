@@ -1,6 +1,6 @@
 # Neural Network From Scratch
 
-> Python Libraries Requirements
+> <h2>Python Libraries Requirements</h2>
 
 ```javascript
 pip install -r requirements.txt
@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ---
 
-## **Theories of Neural Network**
+## <h1>**How Neural Networks Work?**</h1>
 
 _Steps to be followed for creating any neural network:-_
 
@@ -22,7 +22,7 @@ _Steps to be followed for creating any neural network:-_
 
 ## </p>
 
-> ## Forward Propagation
+ ## <h1>Forward Propagation</h1>
 
 <p align="center">
   
@@ -32,7 +32,7 @@ _Steps to be followed for creating any neural network:-_
 
 **\*W** = Weights, **A** = Activation Function\*
 
-> ## Activation Functions
+## Activation Functions
 
 _Some most used activation functions are as follows:-_
 
@@ -42,8 +42,7 @@ _Some most used activation functions are as follows:-_
 - **softmax**
 
 ---
-
-> ## Loss Functions
+ ## Loss Functions
 
 _Some most used Loss functions are as follows:-_
 
@@ -53,8 +52,12 @@ _Some most used Loss functions are as follows:-_
 
 ---
 
-> ## Back Propagation
+ ## Back Propagation
 
-### Backpropagation For Output layer
+<p align="center">
+  
+![Backprop](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
 
-### Backpropagation For Hidden layer
+![Weight](http://hmkcode.github.io/images/ai/bp_update_formula.png)
+## </p>
+
